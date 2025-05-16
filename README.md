@@ -36,7 +36,7 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/M5StickC%20PL
 
 ▶️  M5StickC Plus2 – Unboxing the Pocket-Sized ESP32 Beast 🔗  https://youtube.com/shorts/mmQ-tj96U0I   
   
-▶️  [DIY Project] GPS Speedometer using M5StickCPlus2 🔗  https://youtu.be/MY92SJlaFmg  
+▶️  [DIY Project] How to make GPS Speedometer 🔗  https://youtu.be/l8nCB1kXlY8  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
